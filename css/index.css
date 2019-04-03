@@ -1,0 +1,36 @@
+
+#nav-logo-menu-2 .bg-wrap {
+	background: rgba(68, 68, 68, 0);
+}#header-text .bg {
+    background-image: url('../images/bg-37.jpg');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+    opacity:0.25;
+}#sep-center-5 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}
+#sep-center-5 .bg {
+	background-image: url('../images/envelope-bg.png');
+}#text-3col-3 .bg {
+    background-image: url('../images/bg-sign.png');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    opacity: 0.1;
+}
+#contact-img-map-text .bg-wrap {
+    background-color: #F2F0ED;
+}#contact-form .bg {
+	background-image: url('../images/bg-31.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: bottom right;
+	opacity: 1;
+}#sep-center-5--0 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}#cookie-text-btn-2 .bg {
+    opacity: 0.5;
+    background-size: 200px auto;
+    background-repeat: Repeat;
+    background-image: url(../images/bg-pattern-1-primary.png);
+}
