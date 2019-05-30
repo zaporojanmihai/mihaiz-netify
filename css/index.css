@@ -1,7 +1,9 @@
-#header-text-2 .bg {
-    background-image: url('../images/bg-42.jpg');
+#header-text-8 .bg {
+    background-image: url('../images/daniel-korpai-1362102-unsplash.jpg');
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: left bottom;
     background-size: cover;
-    opacity:1;
+    opacity: 0.52;
+}#clients-5col .bg-wrap{
+    background: #F4F5F6;
 }
